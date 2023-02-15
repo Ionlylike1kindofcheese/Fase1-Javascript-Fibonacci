@@ -1,1 +1,1 @@
-# Fase1-Javascript-Fibonacci
+# Fase1-Frontend-Javascript-FibonacciReeks
